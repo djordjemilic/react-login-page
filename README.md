@@ -1,6 +1,4 @@
-<!-- LIVE DEMO -->
-## Live Demo 
-https://djordjemilic.github.io/react-login-page/
+
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
